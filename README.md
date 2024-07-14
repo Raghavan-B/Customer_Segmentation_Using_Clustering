@@ -1,6 +1,6 @@
 # Customer Segmentation Using K-Means Clustering
 
-This repository contains the code and resources for a customer segmentation project using the K-Means clustering algorithm. The project was developed during my internship at Prodigy Infotech and aims to provide insights into customer behavior based on their spending patterns and annual income. Furthermore using google gemini pro I've added AI based marketing strategies tailored to the cluster of the customer.
+This repository contains the code and resources for a customer segmentation project using the K-Means clustering algorithm. The project aims to provide insights into customer behavior based on their spending patterns and annual income. Furthermore using google gemini pro I've added AI based marketing strategies tailored to the cluster of the customer.
 ## Project Overview
 
 Customer segmentation is a crucial aspect of marketing, allowing businesses to target specific groups of customers more effectively. This project focuses on segmenting customers into different groups based on their annual income and spending score. The segmentation helps in understanding customer behavior, tailoring marketing strategies, and improving customer satisfaction.
@@ -129,8 +129,6 @@ Future enhancements to the project could include:
 ## Acknowledgements
 
 - The dataset used in this project is sourced from [Kaggle](https://www.kaggle.com).
-- Special thanks to Prodigy Infotech for the opportunity to work on this project.
-
 ---
 
 Feel free to adjust the text to better suit your specific project details and preferences.
