@@ -131,4 +131,3 @@ Future enhancements to the project could include:
 - The dataset used in this project is sourced from [Kaggle](https://www.kaggle.com).
 ---
 
-Feel free to adjust the text to better suit your specific project details and preferences.
